@@ -9,7 +9,7 @@
 }
 
 body {
-background-color: #5f2c82;
+  background-color: #5f2c82;
 }
 
 .login {
@@ -147,6 +147,7 @@ label {
 
   .login {
     width: 80vw;
+    height: 386px;
   }
 
   .img {
@@ -182,11 +183,12 @@ label {
 
   .login {
     width: 800px;
+    height: 405px;
   }
 
   .img {
     float: left;
-    width: 40%;
+    width: 30%;
     height: 100%;
   }
 
@@ -196,7 +198,7 @@ label {
     justify-content: center;
     align-items: stretch;
     float: right;
-    width: 60%;
+    width: 70%;
     height: 100%;
   }
 
@@ -220,7 +222,8 @@ label {
     font-size: 1.1rem;
   }
 
-  form button {
+  .enter {
+    height: 50px;
     font-size: 1.1rem;
   }
 }
