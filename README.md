@@ -2,9 +2,9 @@
 
 ![preview](./.github/preview.png)
 
-Tela de Login, um projeto feito por mim para o [Curso em Vídeo](https://www.cursoemvideo.com/).
+Tela de Login, um projeto feito por mim para o [Curso em Vídeo](https://www.cursoemvideo.com/). Utilizando formulários em HTML e Media Queries. 
 
-Veja o site [aqui]()
+Veja o site [aqui](https://matheusfdosan.github.io/login-screen/)
 
 ## Tecnologias
 
