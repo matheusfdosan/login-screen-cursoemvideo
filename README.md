@@ -6,7 +6,7 @@ Tela de Login, um projeto feito por mim para o [Curso em Vídeo](https://www.cur
 
 Utilizando formulários em HTML e Media Queries. 
 
-Veja o site [aqui](https://matheusfdosan.github.io/login-screen/)
+Veja o site [aqui](https://matheusfdosan.github.io/login-screen-cursoemvideo/)
 
 ## Tecnologias
 
